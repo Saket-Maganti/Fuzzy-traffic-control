@@ -44,7 +44,7 @@ FUZZY_TRAFFIC_CONTROL/
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/fuzzy-traffic-control.git
+https://github.com/Saket-Maganti/Fuzzy-traffic-control.git
 cd fuzzy-traffic-control
 ```
 
